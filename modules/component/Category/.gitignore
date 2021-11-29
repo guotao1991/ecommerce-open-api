@@ -1,5 +1,0 @@
-vendor
-composer.lock
-tests/codeCoverage
-.idea
-/.php_cs.cache

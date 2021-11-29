@@ -1,1 +1,0 @@
-# iBrand Point Component
